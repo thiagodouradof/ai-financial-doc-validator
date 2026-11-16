@@ -1,0 +1,272 @@
+[
+  {
+    "doc_id": "DOC-00038",
+    "tipo": "valor",
+    "regra_esperada": "R03"
+  },
+  {
+    "doc_id": "DOC-00159",
+    "tipo": "transposicao",
+    "regra_esperada": "R04"
+  },
+  {
+    "doc_id": "DOC-00237",
+    "tipo": "ausente_b",
+    "regra_esperada": "R01"
+  },
+  {
+    "doc_id": "DOC-00232",
+    "tipo": "ausente_a",
+    "regra_esperada": "R02"
+  },
+  {
+    "doc_id": "DOC-00020",
+    "tipo": "duplicado",
+    "regra_esperada": "R05"
+  },
+  {
+    "doc_id": "DOC-00030",
+    "tipo": "data",
+    "regra_esperada": "R06"
+  },
+  {
+    "doc_id": "DOC-00189",
+    "tipo": "centro_custo",
+    "regra_esperada": "R07"
+  },
+  {
+    "doc_id": "DOC-00147",
+    "tipo": "valor",
+    "regra_esperada": "R03"
+  },
+  {
+    "doc_id": "DOC-00040",
+    "tipo": "transposicao",
+    "regra_esperada": "R04"
+  },
+  {
+    "doc_id": "DOC-00047",
+    "tipo": "ausente_b",
+    "regra_esperada": "R01"
+  },
+  {
+    "doc_id": "DOC-00260",
+    "tipo": "ausente_a",
+    "regra_esperada": "R02"
+  },
+  {
+    "doc_id": "DOC-00197",
+    "tipo": "duplicado",
+    "regra_esperada": "R05"
+  },
+  {
+    "doc_id": "DOC-00298",
+    "tipo": "data",
+    "regra_esperada": "R06"
+  },
+  {
+    "doc_id": "DOC-00284",
+    "tipo": "centro_custo",
+    "regra_esperada": "R07"
+  },
+  {
+    "doc_id": "DOC-00022",
+    "tipo": "valor",
+    "regra_esperada": "R03"
+  },
+  {
+    "doc_id": "DOC-00231",
+    "tipo": "transposicao",
+    "regra_esperada": "R04"
+  },
+  {
+    "doc_id": "DOC-00293",
+    "tipo": "ausente_b",
+    "regra_esperada": "R01"
+  },
+  {
+    "doc_id": "DOC-00097",
+    "tipo": "ausente_a",
+    "regra_esperada": "R02"
+  },
+  {
+    "doc_id": "DOC-00165",
+    "tipo": "duplicado",
+    "regra_esperada": "R05"
+  },
+  {
+    "doc_id": "DOC-00244",
+    "tipo": "data",
+    "regra_esperada": "R06"
+  },
+  {
+    "doc_id": "DOC-00257",
+    "tipo": "centro_custo",
+    "regra_esperada": "R07"
+  },
+  {
+    "doc_id": "DOC-00078",
+    "tipo": "valor",
+    "regra_esperada": "R03"
+  },
+  {
+    "doc_id": "DOC-00032",
+    "tipo": "transposicao",
+    "regra_esperada": "R04"
+  },
+  {
+    "doc_id": "DOC-00053",
+    "tipo": "ausente_b",
+    "regra_esperada": "R01"
+  },
+  {
+    "doc_id": "DOC-00176",
+    "tipo": "ausente_a",
+    "regra_esperada": "R02"
+  },
+  {
+    "doc_id": "DOC-00044",
+    "tipo": "duplicado",
+    "regra_esperada": "R05"
+  },
+  {
+    "doc_id": "DOC-00259",
+    "tipo": "data",
+    "regra_esperada": "R06"
+  },
+  {
+    "doc_id": "DOC-00089",
+    "tipo": "centro_custo",
+    "regra_esperada": "R07"
+  },
+  {
+    "doc_id": "DOC-00021",
+    "tipo": "valor",
+    "regra_esperada": "R03"
+  },
+  {
+    "doc_id": "DOC-00127",
+    "tipo": "transposicao",
+    "regra_esperada": "R04"
+  },
+  {
+    "doc_id": "DOC-00225",
+    "tipo": "ausente_b",
+    "regra_esperada": "R01"
+  },
+  {
+    "doc_id": "DOC-00269",
+    "tipo": "ausente_a",
+    "regra_esperada": "R02"
+  },
+  {
+    "doc_id": "DOC-00268",
+    "tipo": "duplicado",
+    "regra_esperada": "R05"
+  },
+  {
+    "doc_id": "DOC-00082",
+    "tipo": "data",
+    "regra_esperada": "R06"
+  },
+  {
+    "doc_id": "DOC-00187",
+    "tipo": "centro_custo",
+    "regra_esperada": "R07"
+  },
+  {
+    "doc_id": "DOC-00191",
+    "tipo": "valor",
+    "regra_esperada": "R03"
+  },
+  {
+    "doc_id": "DOC-00145",
+    "tipo": "transposicao",
+    "regra_esperada": "R04"
+  },
+  {
+    "doc_id": "DOC-00199",
+    "tipo": "ausente_b",
+    "regra_esperada": "R01"
+  },
+  {
+    "doc_id": "DOC-00210",
+    "tipo": "ausente_a",
+    "regra_esperada": "R02"
+  },
+  {
+    "doc_id": "DOC-00174",
+    "tipo": "duplicado",
+    "regra_esperada": "R05"
+  },
+  {
+    "doc_id": "DOC-00027",
+    "tipo": "data",
+    "regra_esperada": "R06"
+  },
+  {
+    "doc_id": "DOC-00172",
+    "tipo": "centro_custo",
+    "regra_esperada": "R07"
+  },
+  {
+    "doc_id": "DOC-00034",
+    "tipo": "valor",
+    "regra_esperada": "R03"
+  },
+  {
+    "doc_id": "DOC-00169",
+    "tipo": "transposicao",
+    "regra_esperada": "R04"
+  },
+  {
+    "doc_id": "DOC-00049",
+    "tipo": "ausente_b",
+    "regra_esperada": "R01"
+  },
+  {
+    "doc_id": "DOC-00286",
+    "tipo": "ausente_a",
+    "regra_esperada": "R02"
+  },
+  {
+    "doc_id": "DOC-00198",
+    "tipo": "duplicado",
+    "regra_esperada": "R05"
+  },
+  {
+    "doc_id": "DOC-00146",
+    "tipo": "data",
+    "regra_esperada": "R06"
+  },
+  {
+    "doc_id": "DOC-00130",
+    "tipo": "centro_custo",
+    "regra_esperada": "R07"
+  },
+  {
+    "doc_id": "DOC-00077",
+    "tipo": "valor",
+    "regra_esperada": "R03"
+  },
+  {
+    "doc_id": "DOC-00171",
+    "tipo": "transposicao",
+    "regra_esperada": "R04"
+  },
+  {
+    "doc_id": "DOC-00042",
+    "tipo": "ausente_b",
+    "regra_esperada": "R01"
+  },
+  {
+    "doc_id": "DOC-00299",
+    "tipo": "ausente_a",
+    "regra_esperada": "R02"
+  },
+  {
+    "doc_id": "DOC-00073",
+    "tipo": "duplicado",
+    "regra_esperada": "R05"
+  }
+]

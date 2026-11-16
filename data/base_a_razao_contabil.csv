@@ -1,0 +1,293 @@
+doc_id,data,centro_custo,conta,descricao,fornecedor,valor
+DOC-00001,2025-01-04,CC-300 Comercial,3.1.01,Licenças de Software,Fornecedor D,10161.0
+DOC-00002,2025-03-28,CC-500 RH,3.1.01,Licenças de Software,Fornecedor B,26633.59
+DOC-00003,2025-01-04,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor D,10584.84
+DOC-00004,2025-01-04,CC-500 RH,3.4.01,Viagens,Fornecedor D,32263.48
+DOC-00005,2025-02-23,CC-200 Operações,3.4.01,Viagens,Fornecedor H,26578.57
+DOC-00006,2025-01-21,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor F,12612.53
+DOC-00007,2025-02-13,CC-100 Tecnologia,3.1.02,Serviços de Consultoria,Fornecedor B,17189.74
+DOC-00008,2025-02-14,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor E,36349.7
+DOC-00009,2025-03-10,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor G,3684.19
+DOC-00010,2025-03-22,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor F,26044.24
+DOC-00011,2025-01-06,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor E,44337.19
+DOC-00012,2025-01-13,CC-400 Jurídico,3.1.02,Serviços de Consultoria,Fornecedor E,20485.45
+DOC-00013,2025-01-21,CC-300 Comercial,3.2.01,Infraestrutura Cloud,Fornecedor F,9546.39
+DOC-00014,2025-03-31,CC-100 Tecnologia,3.2.01,Infraestrutura Cloud,Fornecedor J,28628.78
+DOC-00015,2025-02-01,CC-200 Operações,3.4.01,Viagens,Fornecedor H,17168.58
+DOC-00016,2025-01-29,CC-300 Comercial,3.4.01,Viagens,Fornecedor A,10422.81
+DOC-00017,2025-02-10,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor E,3118.56
+DOC-00018,2025-02-10,CC-200 Operações,3.4.01,Viagens,Fornecedor H,17894.09
+DOC-00019,2025-01-19,CC-300 Comercial,3.3.01,Treinamento,Fornecedor C,11211.24
+DOC-00020,2025-03-10,CC-300 Comercial,3.4.01,Viagens,Fornecedor J,19365.26
+DOC-00021,2025-02-21,CC-300 Comercial,3.4.01,Viagens,Fornecedor D,44880.06
+DOC-00022,2025-03-07,CC-400 Jurídico,3.1.02,Serviços de Consultoria,Fornecedor B,34046.83
+DOC-00023,2025-01-20,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor G,26898.95
+DOC-00024,2025-02-18,CC-500 RH,3.3.01,Treinamento,Fornecedor H,23880.78
+DOC-00025,2025-01-02,CC-100 Tecnologia,3.4.01,Viagens,Fornecedor I,33826.87
+DOC-00026,2025-01-15,CC-300 Comercial,3.2.01,Infraestrutura Cloud,Fornecedor G,7243.38
+DOC-00027,2025-02-03,CC-500 RH,3.1.01,Licenças de Software,Fornecedor C,22919.52
+DOC-00028,2025-03-22,CC-300 Comercial,3.1.01,Licenças de Software,Fornecedor I,27462.31
+DOC-00029,2025-02-17,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor I,42914.46
+DOC-00030,2025-01-01,CC-500 RH,3.4.01,Viagens,Fornecedor F,22063.97
+DOC-00031,2025-02-16,CC-300 Comercial,3.1.01,Licenças de Software,Fornecedor D,2747.94
+DOC-00032,2025-01-11,CC-100 Tecnologia,3.4.01,Viagens,Fornecedor H,36748.64
+DOC-00033,2025-01-17,CC-200 Operações,3.4.01,Viagens,Fornecedor H,42616.16
+DOC-00034,2025-02-03,CC-500 RH,3.1.02,Serviços de Consultoria,Fornecedor J,19127.74
+DOC-00035,2025-03-11,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor E,18044.8
+DOC-00036,2025-02-26,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor H,5577.04
+DOC-00037,2025-01-09,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor A,26535.65
+DOC-00038,2025-03-17,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor A,3334.04
+DOC-00039,2025-01-30,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor A,38704.65
+DOC-00040,2025-03-07,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor E,30153.65
+DOC-00041,2025-03-11,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor J,25993.09
+DOC-00042,2025-03-02,CC-400 Jurídico,3.1.02,Serviços de Consultoria,Fornecedor D,4380.51
+DOC-00043,2025-02-15,CC-400 Jurídico,3.3.01,Treinamento,Fornecedor G,21096.06
+DOC-00044,2025-03-28,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor A,18207.56
+DOC-00045,2025-01-14,CC-200 Operações,3.2.01,Infraestrutura Cloud,Fornecedor D,8680.87
+DOC-00046,2025-01-18,CC-400 Jurídico,3.3.01,Treinamento,Fornecedor C,12642.75
+DOC-00047,2025-01-10,CC-400 Jurídico,3.1.02,Serviços de Consultoria,Fornecedor I,4541.21
+DOC-00048,2025-01-02,CC-100 Tecnologia,3.4.01,Viagens,Fornecedor D,7609.05
+DOC-00049,2025-03-03,CC-200 Operações,3.3.01,Treinamento,Fornecedor G,40624.56
+DOC-00050,2025-02-18,CC-100 Tecnologia,3.1.02,Serviços de Consultoria,Fornecedor G,12044.36
+DOC-00051,2025-02-06,CC-400 Jurídico,3.3.01,Treinamento,Fornecedor I,29834.93
+DOC-00052,2025-01-20,CC-200 Operações,3.3.01,Treinamento,Fornecedor E,9913.89
+DOC-00053,2025-03-16,CC-500 RH,3.1.01,Licenças de Software,Fornecedor A,33696.7
+DOC-00054,2025-01-07,CC-500 RH,3.1.01,Licenças de Software,Fornecedor H,22702.84
+DOC-00055,2025-01-21,CC-100 Tecnologia,3.4.01,Viagens,Fornecedor I,3743.0
+DOC-00056,2025-01-09,CC-500 RH,3.1.02,Serviços de Consultoria,Fornecedor B,30433.28
+DOC-00057,2025-02-21,CC-100 Tecnologia,3.1.02,Serviços de Consultoria,Fornecedor J,11192.76
+DOC-00058,2025-01-06,CC-500 RH,3.4.01,Viagens,Fornecedor B,18952.24
+DOC-00059,2025-03-14,CC-500 RH,3.4.01,Viagens,Fornecedor F,42071.58
+DOC-00060,2025-03-27,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor D,12062.81
+DOC-00061,2025-03-27,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor H,14330.55
+DOC-00062,2025-01-02,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor J,44930.68
+DOC-00063,2025-01-10,CC-500 RH,3.1.01,Licenças de Software,Fornecedor D,22838.93
+DOC-00064,2025-02-14,CC-100 Tecnologia,3.1.02,Serviços de Consultoria,Fornecedor D,16723.29
+DOC-00065,2025-02-26,CC-500 RH,3.1.02,Serviços de Consultoria,Fornecedor E,27583.75
+DOC-00066,2025-01-02,CC-500 RH,3.4.01,Viagens,Fornecedor E,41939.26
+DOC-00067,2025-01-18,CC-300 Comercial,3.1.01,Licenças de Software,Fornecedor B,40053.61
+DOC-00068,2025-01-20,CC-300 Comercial,3.4.01,Viagens,Fornecedor E,27276.62
+DOC-00069,2025-01-27,CC-300 Comercial,3.2.01,Infraestrutura Cloud,Fornecedor I,22060.65
+DOC-00070,2025-01-12,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor E,2127.29
+DOC-00071,2025-01-17,CC-300 Comercial,3.2.01,Infraestrutura Cloud,Fornecedor C,33394.21
+DOC-00072,2025-02-24,CC-500 RH,3.4.01,Viagens,Fornecedor A,5167.54
+DOC-00073,2025-03-11,CC-100 Tecnologia,3.1.02,Serviços de Consultoria,Fornecedor F,26275.55
+DOC-00074,2025-02-25,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor A,13975.39
+DOC-00075,2025-02-15,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor D,30061.96
+DOC-00076,2025-03-13,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor J,33764.07
+DOC-00077,2025-01-21,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor G,1261.67
+DOC-00078,2025-02-22,CC-200 Operações,3.2.01,Infraestrutura Cloud,Fornecedor E,7290.02
+DOC-00079,2025-02-18,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor H,10126.15
+DOC-00080,2025-02-14,CC-300 Comercial,3.3.01,Treinamento,Fornecedor D,10148.12
+DOC-00081,2025-02-21,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor E,38916.23
+DOC-00082,2025-02-14,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor G,30626.39
+DOC-00083,2025-02-12,CC-100 Tecnologia,3.4.01,Viagens,Fornecedor B,39485.17
+DOC-00084,2025-01-23,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor E,1865.84
+DOC-00085,2025-02-25,CC-300 Comercial,3.4.01,Viagens,Fornecedor F,19722.27
+DOC-00086,2025-01-15,CC-400 Jurídico,3.4.01,Viagens,Fornecedor J,8675.03
+DOC-00087,2025-02-25,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor I,41662.05
+DOC-00088,2025-03-29,CC-200 Operações,3.4.01,Viagens,Fornecedor F,19493.69
+DOC-00089,2025-03-21,CC-300 Comercial,3.2.01,Infraestrutura Cloud,Fornecedor B,32430.98
+DOC-00090,2025-03-06,CC-300 Comercial,3.2.01,Infraestrutura Cloud,Fornecedor G,14779.3
+DOC-00091,2025-03-12,CC-200 Operações,3.2.01,Infraestrutura Cloud,Fornecedor D,19007.02
+DOC-00092,2025-03-28,CC-200 Operações,3.3.01,Treinamento,Fornecedor J,25674.37
+DOC-00093,2025-03-12,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor E,13018.08
+DOC-00094,2025-03-16,CC-500 RH,3.3.01,Treinamento,Fornecedor F,21004.72
+DOC-00095,2025-03-28,CC-200 Operações,3.3.01,Treinamento,Fornecedor I,21372.4
+DOC-00096,2025-03-26,CC-100 Tecnologia,3.1.02,Serviços de Consultoria,Fornecedor E,23268.02
+DOC-00098,2025-01-26,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor A,2222.69
+DOC-00099,2025-03-20,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor H,18737.68
+DOC-00100,2025-01-25,CC-400 Jurídico,3.4.01,Viagens,Fornecedor H,18074.43
+DOC-00101,2025-03-25,CC-100 Tecnologia,3.1.02,Serviços de Consultoria,Fornecedor B,35062.16
+DOC-00102,2025-01-23,CC-500 RH,3.1.02,Serviços de Consultoria,Fornecedor H,2402.29
+DOC-00103,2025-01-16,CC-400 Jurídico,3.1.02,Serviços de Consultoria,Fornecedor C,36093.53
+DOC-00104,2025-03-13,CC-500 RH,3.4.01,Viagens,Fornecedor F,42759.28
+DOC-00105,2025-03-20,CC-500 RH,3.3.01,Treinamento,Fornecedor G,37401.03
+DOC-00106,2025-02-27,CC-200 Operações,3.4.01,Viagens,Fornecedor H,20335.63
+DOC-00107,2025-03-23,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor I,21884.18
+DOC-00108,2025-02-05,CC-400 Jurídico,3.1.02,Serviços de Consultoria,Fornecedor B,32152.49
+DOC-00109,2025-02-04,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor F,40202.25
+DOC-00110,2025-01-18,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor D,17329.13
+DOC-00111,2025-01-28,CC-100 Tecnologia,3.1.02,Serviços de Consultoria,Fornecedor G,18430.83
+DOC-00112,2025-03-01,CC-400 Jurídico,3.4.01,Viagens,Fornecedor A,9426.52
+DOC-00113,2025-02-19,CC-500 RH,3.3.01,Treinamento,Fornecedor A,38574.43
+DOC-00114,2025-02-18,CC-400 Jurídico,3.4.01,Viagens,Fornecedor A,42431.96
+DOC-00115,2025-02-19,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor I,33676.08
+DOC-00116,2025-03-19,CC-200 Operações,3.4.01,Viagens,Fornecedor H,9991.06
+DOC-00117,2025-03-04,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor G,15225.41
+DOC-00118,2025-01-22,CC-400 Jurídico,3.3.01,Treinamento,Fornecedor C,44135.38
+DOC-00119,2025-01-04,CC-400 Jurídico,3.4.01,Viagens,Fornecedor J,25462.98
+DOC-00120,2025-01-11,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor C,39028.28
+DOC-00121,2025-01-07,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor G,14831.77
+DOC-00122,2025-02-11,CC-300 Comercial,3.3.01,Treinamento,Fornecedor G,12629.81
+DOC-00123,2025-02-02,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor H,1019.34
+DOC-00124,2025-01-07,CC-300 Comercial,3.4.01,Viagens,Fornecedor D,29308.96
+DOC-00125,2025-01-04,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor D,37789.41
+DOC-00126,2025-01-20,CC-200 Operações,3.4.01,Viagens,Fornecedor C,21389.21
+DOC-00127,2025-03-14,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor H,31521.0
+DOC-00128,2025-01-22,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor J,43373.5
+DOC-00129,2025-01-21,CC-300 Comercial,3.1.01,Licenças de Software,Fornecedor B,26104.01
+DOC-00130,2025-03-15,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor G,42374.96
+DOC-00131,2025-01-10,CC-500 RH,3.1.02,Serviços de Consultoria,Fornecedor D,4720.27
+DOC-00132,2025-03-29,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor B,35860.79
+DOC-00133,2025-01-06,CC-300 Comercial,3.4.01,Viagens,Fornecedor I,19362.75
+DOC-00134,2025-01-09,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor F,717.45
+DOC-00135,2025-03-04,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor G,43241.32
+DOC-00136,2025-01-20,CC-400 Jurídico,3.3.01,Treinamento,Fornecedor C,33060.72
+DOC-00137,2025-03-20,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor H,20999.59
+DOC-00138,2025-02-04,CC-300 Comercial,3.4.01,Viagens,Fornecedor D,37408.29
+DOC-00139,2025-02-05,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor D,33808.86
+DOC-00140,2025-03-20,CC-400 Jurídico,3.4.01,Viagens,Fornecedor F,1437.19
+DOC-00141,2025-01-24,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor D,16063.9
+DOC-00142,2025-02-13,CC-300 Comercial,3.2.01,Infraestrutura Cloud,Fornecedor J,31598.09
+DOC-00143,2025-03-13,CC-100 Tecnologia,3.2.01,Infraestrutura Cloud,Fornecedor I,42670.61
+DOC-00144,2025-01-31,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor H,25049.65
+DOC-00145,2025-03-30,CC-400 Jurídico,3.1.02,Serviços de Consultoria,Fornecedor H,20250.63
+DOC-00146,2025-01-12,CC-300 Comercial,3.1.01,Licenças de Software,Fornecedor D,18287.39
+DOC-00147,2025-02-09,CC-500 RH,3.1.02,Serviços de Consultoria,Fornecedor F,21375.73
+DOC-00148,2025-02-14,CC-400 Jurídico,3.4.01,Viagens,Fornecedor I,14985.99
+DOC-00149,2025-02-04,CC-300 Comercial,3.3.01,Treinamento,Fornecedor E,10489.63
+DOC-00150,2025-02-10,CC-100 Tecnologia,3.1.02,Serviços de Consultoria,Fornecedor I,42796.86
+DOC-00151,2025-01-25,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor H,12551.01
+DOC-00152,2025-03-09,CC-500 RH,3.4.01,Viagens,Fornecedor E,44125.9
+DOC-00153,2025-02-07,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor F,8197.95
+DOC-00154,2025-03-10,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor E,2191.38
+DOC-00155,2025-03-12,CC-300 Comercial,3.1.01,Licenças de Software,Fornecedor C,28758.45
+DOC-00156,2025-01-14,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor J,12902.62
+DOC-00157,2025-02-26,CC-300 Comercial,3.3.01,Treinamento,Fornecedor C,43452.57
+DOC-00158,2025-03-03,CC-100 Tecnologia,3.2.01,Infraestrutura Cloud,Fornecedor B,18121.73
+DOC-00159,2025-03-15,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor C,6841.51
+DOC-00160,2025-02-08,CC-100 Tecnologia,3.4.01,Viagens,Fornecedor D,5462.55
+DOC-00161,2025-03-19,CC-500 RH,3.3.01,Treinamento,Fornecedor J,10272.07
+DOC-00162,2025-02-18,CC-400 Jurídico,3.4.01,Viagens,Fornecedor H,13486.29
+DOC-00163,2025-02-24,CC-300 Comercial,3.4.01,Viagens,Fornecedor J,28003.08
+DOC-00164,2025-01-13,CC-200 Operações,3.4.01,Viagens,Fornecedor D,12019.38
+DOC-00165,2025-01-21,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor C,24906.85
+DOC-00166,2025-01-01,CC-400 Jurídico,3.1.02,Serviços de Consultoria,Fornecedor H,31068.3
+DOC-00167,2025-02-07,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor D,13071.5
+DOC-00168,2025-03-31,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor B,30979.21
+DOC-00169,2025-03-22,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor D,19217.48
+DOC-00170,2025-01-29,CC-200 Operações,3.4.01,Viagens,Fornecedor E,37224.41
+DOC-00171,2025-01-08,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor E,26837.73
+DOC-00172,2025-02-06,CC-400 Jurídico,3.4.01,Viagens,Fornecedor B,21171.1
+DOC-00173,2025-03-31,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor E,22596.18
+DOC-00174,2025-02-26,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor J,1937.76
+DOC-00175,2025-02-11,CC-500 RH,3.3.01,Treinamento,Fornecedor E,1310.04
+DOC-00177,2025-03-15,CC-100 Tecnologia,3.2.01,Infraestrutura Cloud,Fornecedor C,21251.96
+DOC-00178,2025-02-05,CC-200 Operações,3.3.01,Treinamento,Fornecedor J,19699.44
+DOC-00179,2025-01-12,CC-400 Jurídico,3.3.01,Treinamento,Fornecedor F,18464.41
+DOC-00180,2025-03-27,CC-100 Tecnologia,3.2.01,Infraestrutura Cloud,Fornecedor C,14941.69
+DOC-00181,2025-02-06,CC-400 Jurídico,3.3.01,Treinamento,Fornecedor I,1795.87
+DOC-00182,2025-02-10,CC-300 Comercial,3.1.01,Licenças de Software,Fornecedor F,5349.08
+DOC-00183,2025-03-07,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor I,20869.64
+DOC-00184,2025-01-25,CC-500 RH,3.1.01,Licenças de Software,Fornecedor F,28075.13
+DOC-00185,2025-03-22,CC-400 Jurídico,3.3.01,Treinamento,Fornecedor A,9279.59
+DOC-00186,2025-01-17,CC-300 Comercial,3.4.01,Viagens,Fornecedor H,39655.97
+DOC-00187,2025-01-16,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor J,35999.22
+DOC-00188,2025-02-09,CC-500 RH,3.1.02,Serviços de Consultoria,Fornecedor A,24918.48
+DOC-00189,2025-01-29,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor H,42625.67
+DOC-00190,2025-03-05,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor I,31787.71
+DOC-00191,2025-03-03,CC-400 Jurídico,3.3.01,Treinamento,Fornecedor D,20636.87
+DOC-00192,2025-02-19,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor J,22944.6
+DOC-00193,2025-01-09,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor G,15393.4
+DOC-00194,2025-02-04,CC-100 Tecnologia,3.4.01,Viagens,Fornecedor E,32713.39
+DOC-00195,2025-03-16,CC-400 Jurídico,3.4.01,Viagens,Fornecedor C,20177.65
+DOC-00196,2025-02-14,CC-300 Comercial,3.3.01,Treinamento,Fornecedor I,34364.84
+DOC-00197,2025-02-28,CC-300 Comercial,3.3.01,Treinamento,Fornecedor D,44137.74
+DOC-00198,2025-03-15,CC-400 Jurídico,3.1.02,Serviços de Consultoria,Fornecedor D,38542.18
+DOC-00199,2025-01-06,CC-300 Comercial,3.3.01,Treinamento,Fornecedor H,31779.47
+DOC-00200,2025-02-19,CC-200 Operações,3.3.01,Treinamento,Fornecedor H,43422.38
+DOC-00201,2025-03-06,CC-500 RH,3.1.02,Serviços de Consultoria,Fornecedor F,39156.06
+DOC-00202,2025-01-13,CC-500 RH,3.3.01,Treinamento,Fornecedor H,838.34
+DOC-00203,2025-02-22,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor B,21206.65
+DOC-00204,2025-02-13,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor G,29295.17
+DOC-00205,2025-03-28,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor G,42943.16
+DOC-00206,2025-03-11,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor J,3218.67
+DOC-00207,2025-01-30,CC-100 Tecnologia,3.2.01,Infraestrutura Cloud,Fornecedor G,44028.45
+DOC-00208,2025-02-26,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor E,40668.57
+DOC-00209,2025-02-11,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor E,16227.08
+DOC-00211,2025-01-22,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor B,27485.71
+DOC-00212,2025-03-21,CC-200 Operações,3.3.01,Treinamento,Fornecedor H,41090.38
+DOC-00213,2025-01-30,CC-400 Jurídico,3.1.02,Serviços de Consultoria,Fornecedor E,20761.74
+DOC-00214,2025-03-01,CC-300 Comercial,3.1.01,Licenças de Software,Fornecedor I,7235.21
+DOC-00215,2025-02-14,CC-500 RH,3.3.01,Treinamento,Fornecedor E,28806.4
+DOC-00216,2025-03-30,CC-300 Comercial,3.3.01,Treinamento,Fornecedor H,38061.88
+DOC-00217,2025-02-19,CC-400 Jurídico,3.1.02,Serviços de Consultoria,Fornecedor B,10788.68
+DOC-00218,2025-02-15,CC-500 RH,3.4.01,Viagens,Fornecedor E,44672.24
+DOC-00219,2025-01-03,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor E,513.19
+DOC-00220,2025-03-19,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor E,34941.98
+DOC-00221,2025-03-19,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor D,28702.31
+DOC-00222,2025-02-02,CC-200 Operações,3.4.01,Viagens,Fornecedor B,40667.66
+DOC-00223,2025-02-09,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor A,26143.89
+DOC-00224,2025-01-12,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor F,33674.52
+DOC-00225,2025-01-26,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor I,39459.26
+DOC-00226,2025-03-09,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor E,37396.7
+DOC-00227,2025-03-03,CC-300 Comercial,3.2.01,Infraestrutura Cloud,Fornecedor F,36219.83
+DOC-00228,2025-01-10,CC-200 Operações,3.3.01,Treinamento,Fornecedor D,38727.31
+DOC-00229,2025-03-13,CC-300 Comercial,3.3.01,Treinamento,Fornecedor B,35612.09
+DOC-00230,2025-02-03,CC-500 RH,3.1.01,Licenças de Software,Fornecedor B,20547.15
+DOC-00231,2025-03-16,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor F,5009.32
+DOC-00233,2025-02-11,CC-500 RH,3.4.01,Viagens,Fornecedor D,29197.21
+DOC-00234,2025-03-31,CC-300 Comercial,3.3.01,Treinamento,Fornecedor G,5382.92
+DOC-00235,2025-01-05,CC-300 Comercial,3.1.01,Licenças de Software,Fornecedor H,5358.0
+DOC-00236,2025-03-10,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor G,20495.92
+DOC-00237,2025-02-23,CC-500 RH,3.4.01,Viagens,Fornecedor C,39860.81
+DOC-00238,2025-03-04,CC-500 RH,3.1.01,Licenças de Software,Fornecedor G,42266.53
+DOC-00239,2025-01-05,CC-300 Comercial,3.2.01,Infraestrutura Cloud,Fornecedor D,20035.73
+DOC-00240,2025-02-16,CC-100 Tecnologia,3.1.02,Serviços de Consultoria,Fornecedor F,24569.29
+DOC-00241,2025-01-08,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor E,8662.91
+DOC-00242,2025-02-28,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor D,28930.45
+DOC-00243,2025-01-03,CC-100 Tecnologia,3.4.01,Viagens,Fornecedor F,11074.07
+DOC-00244,2025-03-14,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor B,37367.33
+DOC-00245,2025-01-27,CC-500 RH,3.4.01,Viagens,Fornecedor D,36615.43
+DOC-00246,2025-02-12,CC-200 Operações,3.1.02,Serviços de Consultoria,Fornecedor J,277.17
+DOC-00247,2025-01-17,CC-500 RH,3.1.02,Serviços de Consultoria,Fornecedor E,35963.34
+DOC-00248,2025-03-26,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor C,816.49
+DOC-00249,2025-03-17,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor A,7964.94
+DOC-00250,2025-01-17,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor I,5247.17
+DOC-00251,2025-03-02,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor F,23168.72
+DOC-00252,2025-02-27,CC-500 RH,3.1.01,Licenças de Software,Fornecedor D,42551.89
+DOC-00253,2025-03-26,CC-500 RH,3.1.01,Licenças de Software,Fornecedor E,20693.21
+DOC-00254,2025-01-08,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor G,19268.37
+DOC-00255,2025-03-04,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor B,40482.11
+DOC-00256,2025-03-19,CC-200 Operações,3.2.01,Infraestrutura Cloud,Fornecedor B,5809.69
+DOC-00257,2025-03-23,CC-500 RH,3.4.01,Viagens,Fornecedor I,32090.05
+DOC-00258,2025-03-18,CC-500 RH,3.3.01,Treinamento,Fornecedor E,20499.14
+DOC-00259,2025-02-25,CC-100 Tecnologia,3.4.01,Viagens,Fornecedor B,38397.75
+DOC-00261,2025-02-13,CC-400 Jurídico,3.3.01,Treinamento,Fornecedor G,18807.14
+DOC-00262,2025-02-10,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor F,29980.09
+DOC-00263,2025-01-20,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor B,4241.43
+DOC-00264,2025-01-12,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor B,33544.82
+DOC-00265,2025-01-17,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor A,26452.96
+DOC-00266,2025-03-13,CC-300 Comercial,3.4.01,Viagens,Fornecedor B,18574.77
+DOC-00267,2025-01-07,CC-300 Comercial,3.3.01,Treinamento,Fornecedor J,14163.33
+DOC-00268,2025-03-15,CC-500 RH,3.1.01,Licenças de Software,Fornecedor D,7089.65
+DOC-00270,2025-01-15,CC-300 Comercial,3.2.01,Infraestrutura Cloud,Fornecedor J,10293.24
+DOC-00271,2025-03-13,CC-500 RH,3.3.01,Treinamento,Fornecedor J,30422.71
+DOC-00272,2025-01-04,CC-500 RH,3.4.01,Viagens,Fornecedor E,1448.55
+DOC-00273,2025-03-31,CC-300 Comercial,3.2.01,Infraestrutura Cloud,Fornecedor F,15893.4
+DOC-00274,2025-01-19,CC-500 RH,3.1.02,Serviços de Consultoria,Fornecedor G,3270.91
+DOC-00275,2025-01-12,CC-500 RH,3.1.01,Licenças de Software,Fornecedor D,17022.32
+DOC-00276,2025-02-13,CC-200 Operações,3.3.01,Treinamento,Fornecedor F,14126.94
+DOC-00277,2025-03-14,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor B,39767.9
+DOC-00278,2025-01-21,CC-500 RH,3.1.02,Serviços de Consultoria,Fornecedor A,30377.5
+DOC-00279,2025-02-26,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor H,27377.36
+DOC-00280,2025-02-04,CC-200 Operações,3.3.01,Treinamento,Fornecedor I,5254.72
+DOC-00281,2025-01-15,CC-300 Comercial,3.3.01,Treinamento,Fornecedor J,21975.48
+DOC-00282,2025-01-06,CC-200 Operações,3.2.01,Infraestrutura Cloud,Fornecedor G,44302.39
+DOC-00283,2025-01-01,CC-200 Operações,3.1.01,Licenças de Software,Fornecedor E,42547.79
+DOC-00284,2025-02-02,CC-300 Comercial,3.1.02,Serviços de Consultoria,Fornecedor F,5531.3
+DOC-00285,2025-02-25,CC-200 Operações,3.3.01,Treinamento,Fornecedor C,17202.3
+DOC-00287,2025-02-25,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor H,41464.14
+DOC-00288,2025-03-15,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor J,18288.37
+DOC-00289,2025-02-07,CC-100 Tecnologia,3.3.01,Treinamento,Fornecedor G,1085.42
+DOC-00290,2025-01-22,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor H,37466.36
+DOC-00291,2025-01-12,CC-400 Jurídico,3.2.01,Infraestrutura Cloud,Fornecedor B,11062.74
+DOC-00292,2025-02-21,CC-500 RH,3.4.01,Viagens,Fornecedor B,17900.14
+DOC-00293,2025-02-13,CC-200 Operações,3.2.01,Infraestrutura Cloud,Fornecedor F,35093.44
+DOC-00294,2025-03-07,CC-100 Tecnologia,3.1.01,Licenças de Software,Fornecedor I,23021.35
+DOC-00295,2025-02-14,CC-200 Operações,3.2.01,Infraestrutura Cloud,Fornecedor D,4760.78
+DOC-00296,2025-01-26,CC-200 Operações,3.2.01,Infraestrutura Cloud,Fornecedor J,7006.21
+DOC-00297,2025-01-23,CC-400 Jurídico,3.1.01,Licenças de Software,Fornecedor H,33986.9
+DOC-00298,2025-02-27,CC-500 RH,3.4.01,Viagens,Fornecedor J,14645.89
+DOC-00300,2025-02-05,CC-500 RH,3.2.01,Infraestrutura Cloud,Fornecedor A,15934.61

@@ -1,0 +1,7 @@
+pandas>=2.0
+streamlit>=1.35
+pytest>=7.0
+# Opcional (provedores de LLM):
+# anthropic
+# openai
+# google-generativeai
